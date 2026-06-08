@@ -1,3 +1,7 @@
+# 💫 Hi 👋, I'm Tushar Das
+
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_tushar.das) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tushar-das-62209932b/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tushardas320011@gmail.com) 
